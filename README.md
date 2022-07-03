@@ -4,9 +4,9 @@ FastAPI swagger  link:
 https://ml-task-classification-api.herokuapp.com/docs
 
 Sample input:
-{
-  "age": 45,
-  "credit_sum": 34000,
+{\
+  "age": 45,\
+  "credit_sum": 34000,\
   "credit_month": 9,
   "tariff_id": 1.1,
   "score_shk": 0.71,
